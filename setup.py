@@ -4,7 +4,7 @@ setup(
     name='my_package',
     version='0.1.0',    
     description='A example Python package',
-    url='https://github.com/shuds13/my_package',
+    url='https://github.com/lucas-trubiano/my_package',
     author='Lucas Trubiano',
     author_email='lucas.trubiano@gmail.com',
     license='LICENSE',
