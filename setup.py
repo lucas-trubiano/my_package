@@ -30,4 +30,21 @@ setup(
         'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3.11'
     ],
+
+    # name='toolbox',
+    # version='0.0.3',
+    # author='Mike Huls',
+    # author_email='mike_huls@hotmail.com',
+    # description='Testing installation of Package',
+    # long_description=long_description,
+    # long_description_content_type="text/markdown",
+    # url='https://github.com/mike-huls/toolbox',
+    # project_urls = {
+    #     "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
+    # },
+    # license='MIT',
+    # packages=['toolbox'],
+    # install_requires=['requests'],
+
+
 )
